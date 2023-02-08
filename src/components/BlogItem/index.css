@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.blog-item {
+  border-radius: 10px;
+  margin-bottom: 5px;
+  height: auto;
+}
+.blog-container {
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  justify-content: space-between;
+}
+.comment-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #12022f;
+}
+.date {
+  color: #9aa5b1;
+  font-size: 14px;
+  height: 10px;
+}
+.comment {
+  color: #616e7c;
+  font-size: 14px;
+  height: 10px;
+  padding-bottom: 5px;
+}
+.horizantal-line {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.answer {
+  padding-bottom: 60px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
